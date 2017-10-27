@@ -1,4 +1,4 @@
-Store,Date,IsHoliday,Weekly_Sales,Size,Temperature,Fuel_Price,Unemployment,CPI,Average_earning,Population,Population_over_65,Population_under_18
+Store,Date,IsHoliday,Weekly_Sales,Size,Temperature,Fuel_Price,Unemployment,CPI,Average_earning,Population,Population_over_65,Population_under_18 
 1,12/02/2010,TRUE,1641957.44,151315,3.616666667,2.548,8.106,211.2421698,63840,18191,4779,2170
 1,19/02/2010,FALSE,1611968.17,151315,4.405555556,2.514,8.106,211.2891429,63909,18086,4719,2190
 1,26/02/2010,FALSE,1409727.59,151315,8.127777778,2.561,8.106,211.3196429,63897,18153,4762,2169
